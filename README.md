@@ -1,2 +1,2 @@
 # hello-world
-Mans īss depozitorija apraksts
+Mans īss depozitorija apraksts.
